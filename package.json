@@ -19,7 +19,7 @@
     "express": "^4.16.4",
     "install": "^0.12.2",
     "mongoose": "^5.5.12",
-    "npm": "^6.9.0",
+    "npm": "^6.13.4",
     "nuxt": "^2.4.0"
   },
   "devDependencies": {
